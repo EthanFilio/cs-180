@@ -1,0 +1,30 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Optional: ignore Jupyter notebook outputs
+*.nbconvert.ipynb
+
+# Environment variables
+.env
+
+# Linux / Ubuntu system files
+*~
+*.swp
+
+# VS Code workspace settings (personal)
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/*.code-workspace
+
+# Logs
+*.log
