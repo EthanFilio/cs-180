@@ -1,0 +1,14 @@
+[project]
+name = "cs-180"
+version = "0.1.0"
+description = "Collection of all machine exercises for CS 180 course during AY '25-'26"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "ipykernel>=7.2.0",
+    "matplotlib>=3.10.8",
+    "notebook>=7.5.4",
+    "pandas>=3.0.1",
+    "scikit-learn>=1.8.0",
+    "seaborn>=0.13.2",
+]
